@@ -1,0 +1,17 @@
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\TestStudying.Tests.deps.json
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\TestStudying.Tests.runtimeconfig.json
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\TestStudying.Tests.runtimeconfig.dev.json
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\TestStudying.Tests.dll
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\TestStudying.Tests.pdb
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\TestStudying.dll
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\bin\Debug\netcoreapp2.2\TestStudying.pdb
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\obj\Debug\netcoreapp2.2\TestStudying.Tests.csprojAssemblyReference.cache
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\obj\Debug\netcoreapp2.2\TestStudying.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\obj\Debug\netcoreapp2.2\TestStudying.Tests.AssemblyInfoInputs.cache
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\obj\Debug\netcoreapp2.2\TestStudying.Tests.AssemblyInfo.cs
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\obj\Debug\netcoreapp2.2\TestStudying.Tests.csproj.CopyComplete
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\obj\Debug\netcoreapp2.2\TestStudying.Tests.dll
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying.Tests\obj\Debug\netcoreapp2.2\TestStudying.Tests.pdb

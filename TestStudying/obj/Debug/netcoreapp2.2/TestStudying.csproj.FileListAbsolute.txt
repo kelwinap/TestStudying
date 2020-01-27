@@ -1,0 +1,11 @@
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\bin\Debug\netcoreapp2.2\TestStudying.deps.json
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\bin\Debug\netcoreapp2.2\TestStudying.runtimeconfig.json
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\bin\Debug\netcoreapp2.2\TestStudying.runtimeconfig.dev.json
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\bin\Debug\netcoreapp2.2\TestStudying.dll
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\bin\Debug\netcoreapp2.2\TestStudying.pdb
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\obj\Debug\netcoreapp2.2\TestStudying.csprojAssemblyReference.cache
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\obj\Debug\netcoreapp2.2\TestStudying.csproj.CoreCompileInputs.cache
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\obj\Debug\netcoreapp2.2\TestStudying.AssemblyInfoInputs.cache
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\obj\Debug\netcoreapp2.2\TestStudying.AssemblyInfo.cs
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\obj\Debug\netcoreapp2.2\TestStudying.dll
+C:\Users\kelwi\Documents\C#\TestStudying\TestStudying\obj\Debug\netcoreapp2.2\TestStudying.pdb
